@@ -1,24 +1,65 @@
 .img1 {
-  padding-left: 7%;
-  padding-top: 2%;
+  padding-left: 8%;
+  padding-top: 1%;
   padding-right: 5%;
 }
 
 .img2 {
-  padding-left: 7%;
-  padding-top: 2%;
+  padding-left: 8%;
+  padding-top: 1%;
   padding-right: 5%;
 }
 
 .img3 {
-  padding-left: 7%;
-  padding-top: 2%;
+  padding-left: 8%;
+  padding-top: 1%;
   padding-right: 5%;
 }
 
 .menu {
-  background-color: black;
-  color: white;
-  font-size: 25px;
+  background-color: #00003d;
   margin-top: 10px;
+  font-size: large;
+  font-family: "Times New Roman", Times, serif;
+  padding: 10px;
+  color: white;
+  margin-left: 10ex;
+  margin-right: 20ex;
+}
+
+.active {
+  color: white;
+  padding-left: 1em;
+}
+.img {
+  margin-top: 3ex;
+  margin-left: -1ex;
+  margin-right: -2ex;
+}
+
+#myTable {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin-top: 7ex;
+}
+.head {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.data {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+#row {
+  margin-top: 3ex;
+}
+
+#lAlign {
+  list-style: none;
+  display: inline;
+}
+.rAlign {
+  list-style: none;
+  display: inline;
 }
