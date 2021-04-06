@@ -1,1 +1,1 @@
-<?php <include-once("./web.html")?>
+<?php include 'web.html' ?>
